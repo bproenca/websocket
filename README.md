@@ -4,6 +4,7 @@ https://www.baeldung.com/websockets-spring
 
 WebSockets is a bi-directional, full-duplex, persistent connection between a web browser and a server. Once a WebSocket connection is established the connection stays open until the client or server decides to close this connection.
 
+## Run the project
 ```
 ./mvnw spring-boot:run
 ```
