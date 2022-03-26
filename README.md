@@ -4,6 +4,10 @@ https://www.baeldung.com/websockets-spring
 
 WebSockets is a bi-directional, full-duplex, persistent connection between a web browser and a server. Once a WebSocket connection is established the connection stays open until the client or server decides to close this connection.
 
+```
+./mvnw spring-boot:run
+```
+
 ### SockJS
 
 SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.
